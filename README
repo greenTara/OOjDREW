@@ -10,4 +10,14 @@ For testing purposes, two issue trackers are maintained:
 Bitbucket: https://bitbucket.org/taraathan/oojdrew-git/issues
 Github: https://github.com/greenTara/OOjDREW/issues
 Please provide a reference to an issue number in every commit.
-To integrate issues with commits, the issue number should appear in the commit message like this: #536
+To integrate issues with commits, the issue number should appear in the commit message like this: re #536
+
+Tortoise Git has settings that allow you to add a field to your commit dialog to enter the issue number, and this phrase is added to your commit message.
+
+Bitbucket: https://confluence.atlassian.com/display/BITBUCKET/Setting+Up+the+Bitbucket+Issues+Service
+  you may include re #536 or   closes #536 or reopens #536
+  (there are several more variations in the format)
+  to reference, close or reopen an issue
+  
+Git: https://github.com/blog/831-issues-2-0-the-next-generation
+The syntax for closing is "closes #536"
