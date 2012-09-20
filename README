@@ -8,3 +8,4 @@ SourceForge: https://sourceforge.net/projects/gtoojdrew/
 
 A single issue tracker is maintained at https://bitbucket.org/taraathan/oojdrew-git/issues
 Please provide a reference to an issue number in every commit.
+To integrate issues with commits, the issue number should appear in the commit message like this: #536
