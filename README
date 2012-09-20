@@ -6,6 +6,8 @@ Bitbucket (Hg): https://bitbucket.org/taraathan/oojdrew
 Bitbucket (Git): https://bitbucket.org/taraathan/oojdrew-git
 SourceForge: https://sourceforge.net/projects/gtoojdrew/
 
-A single issue tracker is maintained at https://bitbucket.org/taraathan/oojdrew-git/issues
+For testing purposes, two issue trackers are maintained:
+Bitbucket: https://bitbucket.org/taraathan/oojdrew-git/issues
+Github: https://github.com/greenTara/OOjDREW/issues
 Please provide a reference to an issue number in every commit.
 To integrate issues with commits, the issue number should appear in the commit message like this: #536
