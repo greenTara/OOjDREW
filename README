@@ -21,3 +21,5 @@ Bitbucket: https://confluence.atlassian.com/display/BITBUCKET/Setting+Up+the+Bit
   
 Git: https://github.com/blog/831-issues-2-0-the-next-generation
 The syntax for closing is "closes #536"
+
+Making a change to test the dateTimes that are entered in history- dateTime of commit or push? 
